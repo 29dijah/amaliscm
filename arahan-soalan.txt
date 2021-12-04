@@ -2,3 +2,5 @@ ketrampilan
 - Membina repository di komputer
 - setempat bangunkan branch
 - gabungkan branch
+- bina fail
+- masukkan di gitbash
