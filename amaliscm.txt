@@ -2,3 +2,4 @@ Ujian amali source code management
 - github dan git
 - makmal komputer 1
 - bengkel teknologi perisian
+- 9 Pagi hingga 12 tengah hari
