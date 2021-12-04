@@ -1,0 +1,4 @@
+Ujian amali source code management
+- github dan git
+- makmal komputer 1
+- bengkel teknologi perisian
